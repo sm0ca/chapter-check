@@ -2,8 +2,8 @@
 #                                PROGRAM HEADER                                #
 # ---------------------------------------------------------------------------- #
 
-# Name          : ChapterCheck.py
-# Programmer    : Sanchaai Mathi
+# Name          : main.py
+# Programmer    : sxnch
 # Date          : 06/06/21
 # Description   : Chapter Check provides users with a way to stay up to date on
 #                 the newest releases of their favourite mangas! Aside from the
