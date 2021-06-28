@@ -1,6 +1,6 @@
 # Chapter Check
 
-(Note that although this project was created for my computer science course, it can be used by anyone who finds it helpful! - sxnch)
+(Note that this project was created for my computer science course, and due to various restrictions I was unable to implement many libraries/constructs that would have much more efficient. That being said, it can still be used by anyone who is interested, and hopefully someone finds it helpful! - sxnch)
 
 This software allows you to maintain a personal manga list, in which you can
 add all of the ongoing manga that you'd like to keep up-to-date with. With a
