@@ -45,6 +45,11 @@ Some other popular manga you may want to try adding include:
 - "Dragon Ball"
 - "Bleach"
 
+### Screenshots
+[![scr2.png](https://i.postimg.cc/JhJDm0r1/scr2.png)](https://postimg.cc/bGyN9zSM)
+[![scr1.png](https://i.postimg.cc/XY1cXr6d/scr1.png)](https://postimg.cc/JsJB24nz)
+[![scr3.png](https://i.postimg.cc/XNDVH3Wx/scr3.png)](https://postimg.cc/XXdSqRpy)
+
 #### Additional Note (strictly for testing purposes, not intended for consumer use):
 
 When manually tampering with the values for last-read chapters within a user's
