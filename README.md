@@ -46,9 +46,9 @@ Some other popular manga you may want to try adding include:
 - "Bleach"
 
 ### Screenshots
-[![scr2.png](https://i.postimg.cc/JhJDm0r1/scr2.png)](https://postimg.cc/bGyN9zSM)
-[![scr1.png](https://i.postimg.cc/XY1cXr6d/scr1.png)](https://postimg.cc/JsJB24nz)
-[![scr3.png](https://i.postimg.cc/XNDVH3Wx/scr3.png)](https://postimg.cc/XXdSqRpy)
+[![sc2.png](https://i.postimg.cc/kGB3WVh8/sc2.png)](https://postimg.cc/N2qzc0tf)
+[![sc1.png](https://i.postimg.cc/d1pxCWMR/sc1.png)](https://postimg.cc/BL5p9Bnt)
+[![sc3.png](https://i.postimg.cc/CMt9WxQP/sc3.png)](https://postimg.cc/s1YnWsy7)
 
 #### Additional Note (strictly for testing purposes, not intended for consumer use):
 
