@@ -7,7 +7,7 @@ releases (Chapter Check's primary function), modify your list (add/remove
 manga), and view the list to check your last-read chapters!
 
 ### Dependencies
-requests: (can be installed with "pip install requests")
+- requests: (can be installed with "pip install requests")
 
 ### Demo Account Information:
 
