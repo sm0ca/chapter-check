@@ -1,7 +1,5 @@
 # Chapter Check
 
-(Note that the rationale behind using a GUI library like Tkinter is the fact that it comes preinstalled with Python, which means less dependency on third-party libraries—a very useful trait for a computer science course project! - sxnch)
-
 This software allows you to maintain a personal manga list, in which you can
 add all of the ongoing manga that you'd like to keep up-to-date with. With a
 Chapter Check manga list, you have the option to search for new chapter
